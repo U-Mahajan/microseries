@@ -17,5 +17,6 @@ public class Main {
             System.out.println("umesh");
             String name = "umesh mahajan";
         }
+        System.out.printf("Hello and welcome!");
     }
 }
