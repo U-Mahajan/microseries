@@ -61,9 +61,10 @@ public class Main {
             System.out.println("umesh");
             String name = "umesh mahajan";
         }
-        System.out.printf("Mahajan");
-
-//           new changes
+        // hhhh
+        // new chnages main
+        System.out.println("mohit mahajan");
+//        new changes
 
         System.out.println("nilesh mahajan");
     }
