@@ -62,5 +62,7 @@ public class Main {
             String name = "umesh mahajan";
         }
         // hhhh
+        // new chnages main
+        System.out.println("mohit mahajan");
     }
 }
