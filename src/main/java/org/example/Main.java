@@ -65,7 +65,6 @@ public class Main {
         // new chnages main
         System.out.println("mohit mahajan");
 //        new changes
-
         System.out.println("nilesh mahajan");
     }
 }
