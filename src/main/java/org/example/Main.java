@@ -61,6 +61,7 @@ public class Main {
             System.out.println("umesh");
             String name = "umesh mahajan";
         }
+        List<String> lw = new ArrayList();
 
     }
 }
