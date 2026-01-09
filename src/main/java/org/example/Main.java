@@ -62,6 +62,9 @@ public class Main {
             String name = "umesh mahajan";
         }
         List<String> lw = new ArrayList();
+         List<String> lw = new ArrayList();
+         List<String> lw = new ArrayList();
+         List<String> lw = new ArrayList();
 
     }
 }
