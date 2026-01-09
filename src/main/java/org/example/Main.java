@@ -61,10 +61,6 @@ public class Main {
             System.out.println("umesh");
             String name = "umesh mahajan";
         }
-        // hhhh
-        // new chnages main
-        System.out.println("mohit mahajan");
-        // 23 june
-        System.out.println("pratibha mahajan");
+
     }
 }
